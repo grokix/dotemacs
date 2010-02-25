@@ -1,6 +1,5 @@
 
 (push "~/emacs/misc" load-path)
-(push "~/emacs/packages" load-path)
 
 ;; Customizations (M-x customize) in a separate file
 (setq custom-file "~/emacs/custom.el")
