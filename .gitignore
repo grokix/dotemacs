@@ -1,4 +1,5 @@
 *~
-.git
 .emacs.desktop
+.git
+/.emacs.desktop.lock
 packages/
