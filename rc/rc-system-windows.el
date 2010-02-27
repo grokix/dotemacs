@@ -1,3 +1,6 @@
+
+(add-to-list 'load-path "~/emacs/packages/color-theme/")
+
 ;;(define-coding-system-alias 'windows-1251 'cp1251)
 ;;(set-buffer-file-coding-system 'cp1251-dos)
 (message "Windows-nt section run")
