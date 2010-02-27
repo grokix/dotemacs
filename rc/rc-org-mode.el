@@ -14,7 +14,7 @@
 ;; Включение автоматического переключения в Org Mode при открытии файла с расширением .org:
 (add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode))
 
-;; Установка горячих клавиш 
+;; Установка горячих клавиш
 ;; (define-key global-map "\C-cr" 'org-remember) - чем так лучше?
 (global-set-key "\C-cl" 'org-store-link)
 (global-set-key "\C-ca" 'org-agenda)

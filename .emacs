@@ -21,10 +21,11 @@
 (load "~/emacs/rc/rc-misc.el")
 (load "~/emacs/rc/rc-delphi.el")
 (load "~/emacs/rc/rc-common-hooks.el")
-(load "~/emacs/rc/rc-ccmode.el")
+
 (load "~/emacs/rc/rc-decor.el")
 (load "~/emacs/rc/rc-desktop.el")
 (load "~/emacs/rc/rc-iswitchb.el")
 (load "~/emacs/rc/rc-git.el")
 
 (load "~/emacs/macroses.el")
+(load "~/emacs/rc/rc-ccmode.el")
