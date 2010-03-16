@@ -21,6 +21,7 @@
 
 (defun grokix/org-mode-hook ()
   (auto-fill-mode 1)
+  (setq fill-column 100)
   (imenu-add-to-menubar "Imenu")
   )
 (add-hook 'org-mode-hook 'grokix/org-mode-hook)
