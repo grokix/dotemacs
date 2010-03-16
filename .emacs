@@ -29,4 +29,5 @@
 
 (load "~/emacs/macroses.el")
 (load "~/emacs/rc/rc-ccmode.el")
+(load "~/emacs/rc/rc-gdb.el")
 (load "~/emacs/rc/rc-color-theme.el")
