@@ -11,6 +11,13 @@
 (require 'org-install)
 (require 'org)
 
+;; Настройки экспорта
+(setq org-export-with-toc nil)
+(setq org-export-with-section-numbers nil)
+(setq org-export-author-info nil)
+(setq org-export-time-stamp-file nil)
+(setq org-export-creator-info nil)
+
 ;; Включение автоматического переключения в Org Mode при открытии файла с расширением .org:
 (add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode))
 
